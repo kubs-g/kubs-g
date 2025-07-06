@@ -14,7 +14,7 @@ Welcome to my GitHub! I'm a passionate full-stack developer focused on building 
 
 - *Frontend:* HTML, CSS, JavaScript, React
 - *Backend:* Node.js, Express.js
-- *Databases:* MySQL, MongoDB
+- *Databases:* MySQL, MongoDB, Postgresql 
 - *Tools:* Git, GitHub, VS Code, Postman
 
 ## Projects
